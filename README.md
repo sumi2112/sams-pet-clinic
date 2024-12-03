@@ -1,2 +1,2 @@
-# sfg-pet-clinic
+# sams-pet-clinic
 Spring Pet Clinic
