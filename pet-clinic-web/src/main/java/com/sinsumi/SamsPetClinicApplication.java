@@ -1,4 +1,4 @@
-package com.sinsumi.sams_pet_clinic;
+package com.sinsumi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

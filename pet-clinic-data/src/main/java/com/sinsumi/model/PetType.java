@@ -1,4 +1,4 @@
-package com.sinsumi.sams_pet_clinic.model;
+package com.sinsumi.model;
 
 public class PetType {
 
